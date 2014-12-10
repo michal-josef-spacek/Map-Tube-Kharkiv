@@ -1,0 +1,55 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.70.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 42335f4a3c552b627d1c47470ab53050b24a79af Changes
+SHA1 3c7805b015daac57b76d04c4e3ffcdb7c9b56e78 Kharkiv.pm
+SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
+SHA1 62ea8161d1cc7e68c6aa5a240b42a571037b8c51 LICENSE.bsd
+SHA1 7ed42f9fa25423f58a13738156a1e47b6673b2fb MANIFEST
+SHA1 dd4290482edcffd495477d4694edb189603b5cd3 META.yml
+SHA1 6865a06b47c51a81542f0a81267e672174c44620 Makefile.PL
+SHA1 632b898615807f9814c46dec97f3fc5f5b0972be README
+SHA1 ff91471bd147655bfbc039522c58ba78900256ee examples/ex1.pl
+SHA1 4210d6edf278e745bb2aaceab54279ac85737fd4 examples/ex2.pl
+SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
+SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
+SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
+SHA1 e7152bfd5ca67d0e33f96d09c59d600bca5c1f15 inc/Module/Install/Fetch.pm
+SHA1 29ee1cb0dc262b00983e3a2f5cf00b538dff5069 inc/Module/Install/Makefile.pm
+SHA1 e963f80cfe255f16e55067d1feb6841cff3ed2fe inc/Module/Install/Metadata.pm
+SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
+SHA1 3283fb3bb58e10c29029567e63b805cdeb66af10 inc/Module/Install/Share.pm
+SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
+SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
+SHA1 34f7b91572d50fc26ed52bde205e6b574b166664 share/kharkiv-map.xml
+SHA1 2da81468c967cea284a73522c1e637d9654325f4 t/Map-Tube-Kharkiv/00-use.t
+SHA1 0a596657624dfc41df3fcf16d4d409ced64a7981 t/Map-Tube-Kharkiv/01-version.t
+SHA1 c990bf32a58cc1a1f81fc871d580e1befe30bc09 t/Map-Tube-Kharkiv/02-pod_coverage.t
+SHA1 a6e2aac321d4d72ed08b46ca6f03f52d0565a660 t/Map-Tube-Kharkiv/03-pod.t
+SHA1 86ff88d0fe6239c1e8e230c536488db958c4497a t/Map-Tube-Kharkiv/04-get_shortest_route.t
+SHA1 a9f2e04a142a8b77edd629f0ac2958323ecd196b t/Map-Tube-Kharkiv/05-name.t
+SHA1 f35f03ff499f34fd489c92ed27041323df4687e8 t/Map-Tube-Kharkiv/06-xml.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJUh5D/AAoJEAwa+cf4dLBa2HkIAMtKANKJkA4ngLtCJk25NXqH
+0q/6GRYEHIuUjtuuDyfgfqYZlFOjLLMQ0qJABzhSZ2IvV8Hri0zApMFj2FUzTxSH
+tHJYUJS9bOLN78FYZRluCL4k6HqcPtjyndICbk+62yT9rO3WJsMmOd+CCUnJAUbV
+bP8sS/VhkdAvXfrOH6MjwFi5/e7CWCNR9zQ8rFS6Dc9FweKXqnpNmFDrYKcVF9w4
+UejlqoSBGlh2j2NlO7H5P664C7Pu5T4O3aaAl7Jj8SK4e/oGkQUFvDwEjEdxAS1z
+jQmlXaVpdXrHiHJTslIqBRopHFLddKZ8AHYCAUheG30CeoyJzCWnZwFv1J+UcZ4=
+=K0aZ
+-----END PGP SIGNATURE-----

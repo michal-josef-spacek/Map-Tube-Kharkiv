@@ -19,6 +19,7 @@ MANIFEST			This list of files
 META.yml
 README
 share/kharkiv-map.xml
+SIGNATURE
 t/Map-Tube-Kharkiv/00-use.t
 t/Map-Tube-Kharkiv/01-version.t
 t/Map-Tube-Kharkiv/02-pod_coverage.t
