@@ -1,5 +1,6 @@
 0.03
  - Add EXAMPLE3 section to doc.
+ - Add get_lines() method to doc.
  - Remove executable bit from kharkiv-map.xml file.
 
 0.02 2014-12-11T09:30:17+01:00
