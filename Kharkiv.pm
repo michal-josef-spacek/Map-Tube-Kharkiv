@@ -166,7 +166,7 @@ For more information about Kharkiv Map, click L<here|https://en.wikipedia.org/wi
          'callback_node' => \&node_color_without_label,
          'driver' => 'neato',
          'tube' => $obj,
- ); 
+ );
 
  # Get graph to file.
  $g->graph('Kharkiv.png');
