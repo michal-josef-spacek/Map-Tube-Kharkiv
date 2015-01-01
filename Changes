@@ -1,5 +1,6 @@
 0.04
  - Add Task::Map::Tube to SEE ALSO section in doc.
+ - Update copyright years to 2015.
 
 0.03 2014-12-23T14:20:09+01:00
  - Add Map::Tube::GraphViz, Map::Tube::Text::Table, Map::Tube::Bucharest,
