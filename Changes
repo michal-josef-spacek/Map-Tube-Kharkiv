@@ -2,6 +2,7 @@
  - Add <?xml> header to XML document.
  - Add Map::Tube::Graph to SEE ALSO section in doc.
  - Add Map::Tube::Plugin::Graph to SEE ALSO section in doc.
+ - Add Map::Tube::Singapore to SEE ALSO section in doc.
  - Add Task::Map::Tube to SEE ALSO section in doc.
  - Add lines to XML document.
  - Update copyright years to 2015.
