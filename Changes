@@ -1,9 +1,9 @@
 0.04
  - Add <?xml> header to XML document.
- - Add lines to XML document.
  - Add Map::Tube::Graph to SEE ALSO section in doc.
  - Add Map::Tube::Plugin::Graph to SEE ALSO section in doc.
  - Add Task::Map::Tube to SEE ALSO section in doc.
+ - Add lines to XML document.
  - Update copyright years to 2015.
 
 0.03 2014-12-23T14:20:09+01:00
