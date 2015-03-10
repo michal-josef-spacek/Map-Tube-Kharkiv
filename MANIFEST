@@ -26,6 +26,7 @@ t/Map-Tube-Kharkiv/00-use.t
 t/Map-Tube-Kharkiv/01-version.t
 t/Map-Tube-Kharkiv/02-pod_coverage.t
 t/Map-Tube-Kharkiv/03-pod.t
-t/Map-Tube-Kharkiv/04-get_shortest_route.t
-t/Map-Tube-Kharkiv/05-name.t
-t/Map-Tube-Kharkiv/06-xml.t
+t/Map-Tube-Kharkiv/04-map.t
+t/Map-Tube-Kharkiv/05-get_shortest_route.t
+t/Map-Tube-Kharkiv/06-name.t
+t/Map-Tube-Kharkiv/07-xml.t
