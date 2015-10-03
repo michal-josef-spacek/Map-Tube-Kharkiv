@@ -1,5 +1,6 @@
 0.04
  - Add <?xml> header to XML document.
+ - Add EXAMPLE4 in doc.
  - Add get_line_by_id() and get_line_by_name() methods to doc.
  - Add lines to XML document.
  - Add test of map validity.

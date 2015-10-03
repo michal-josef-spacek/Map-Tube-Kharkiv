@@ -137,6 +137,29 @@ EXAMPLE3
      # Output like:
      # -rw-r--r-- 1 skim skim 94579 Dec 23 14:15 Kharkiv.png
 
+EXAMPLE4
+     # Pragmas.
+     use strict;
+     use warnings;
+
+     # Modules.
+     use Encode qw(encode_utf8);
+     use Map::Tube::Kharkiv;
+
+     # Object.
+     my $obj = Map::Tube::Kharkiv->new;
+
+     # Get lines.
+     my $lines_ar = $obj->get_lines;
+
+     # Print out.
+     map { print encode_utf8($_->name)."\n"; } sort @{$lines_ar};
+
+     # Output:
+     # Олексіївська лінія
+     # Салтівська лінія
+     # Холодногірсько-Заводська лінія
+
 DEPENDENCIES
     File::Share, Map::Tube, Moo, namespace::clean.
 
