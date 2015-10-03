@@ -28,8 +28,10 @@ SIGNATURE
 t/Map-Tube-Kharkiv/01-use.t
 t/Map-Tube-Kharkiv/02-version.t
 t/Map-Tube-Kharkiv/03-map.t
-t/Map-Tube-Kharkiv/04-get_shortest_route.t
-t/Map-Tube-Kharkiv/05-name.t
-t/Map-Tube-Kharkiv/06-xml.t
+t/Map-Tube-Kharkiv/04-get_node_by_id.t
+t/Map-Tube-Kharkiv/05-get_node_by_name.t
+t/Map-Tube-Kharkiv/06-get_shortest_route.t
+t/Map-Tube-Kharkiv/07-name.t
+t/Map-Tube-Kharkiv/08-xml.t
 xt/Map-Tube-Kharkiv/01-pod_coverage.t
 xt/Map-Tube-Kharkiv/02-pod.t
