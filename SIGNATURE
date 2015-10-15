@@ -14,14 +14,14 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 bdd0f23005817ed5b00f7c0269abd753cb7455c9 Changes
-SHA1 3a997147b0dd4df4a6c4b57232fbaf440255c61e Kharkiv.pm
+SHA1 5a4b60d7055f6388030f412e367730d62479bc85 Changes
+SHA1 6f0cdc8173519e8c8eb5cc0f9224d18f3590ce76 Kharkiv.pm
 SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
 SHA1 507a10efa92555ddddfbe72be27964d9e3eef80f LICENSE.bsd
 SHA1 871ec5005d63c8fd60910809bde851af1fae05c4 MANIFEST
-SHA1 64f921366c647bafaae5b71c44846f53dedc76b0 META.yml
-SHA1 3303645473d8103abaa225f9de785a47a7dc8f1c Makefile.PL
-SHA1 bab282cbd54ec2b77bc88e859158f7ae7df57522 README
+SHA1 e18cc97fffaa67bc50de8184116281e9aa47b4ff META.yml
+SHA1 f400ffffe9da0258ccc20315c4fc2fa3865df964 Makefile.PL
+SHA1 7e66306a9759674bcc7e42f4c3c3d3896b12f756 README
 SHA1 ff91471bd147655bfbc039522c58ba78900256ee examples/ex1.pl
 SHA1 4210d6edf278e745bb2aaceab54279ac85737fd4 examples/ex2.pl
 SHA1 8ba9be57d639df4cdc1f8b85fb995062e06d9b75 examples/ex3.pl
@@ -41,11 +41,11 @@ SHA1 c830b819e61bda5eca077c6291293bba61b3b9f2 inc/Module/Install/Win32.pm
 SHA1 cb52b9d6f88d512d448a6f35ed0af0d1201a134b inc/Module/Install/WriteAll.pm
 SHA1 26b10d08a3a1c9dd8412031e2e1cbb847853e25c share/kharkiv-map.xml
 SHA1 2da81468c967cea284a73522c1e637d9654325f4 t/Map-Tube-Kharkiv/01-use.t
-SHA1 5363f5e3c3a45b93cb0186751a082f9ce9328ec2 t/Map-Tube-Kharkiv/02-version.t
+SHA1 6c9efed564443111be8ab5bb22d77494786be5d0 t/Map-Tube-Kharkiv/02-version.t
 SHA1 a33bdaf91dd20e118d587d9b2f71c94a9f931e53 t/Map-Tube-Kharkiv/03-map.t
-SHA1 823846c1452414de82477774891b5ed5787c3a31 t/Map-Tube-Kharkiv/04-get_node_by_id.t
-SHA1 3e15d6f1caf00b54eae124d9097ead12735fb898 t/Map-Tube-Kharkiv/05-get_node_by_name.t
-SHA1 65f16c56c5350105d58a4f8ec93cf5e5be0de8d1 t/Map-Tube-Kharkiv/06-get_shortest_route.t
+SHA1 0c46106eee454ad50b14c01affa36741a91de719 t/Map-Tube-Kharkiv/04-get_node_by_id.t
+SHA1 75152c80232e8bcec29171a19f21fe9935c10a2d t/Map-Tube-Kharkiv/05-get_node_by_name.t
+SHA1 28304b60f929d0ef49d55e413407041f7b118441 t/Map-Tube-Kharkiv/06-get_shortest_route.t
 SHA1 4d6ccbfaca724e8f09050d5e1578a5b8661f88f8 t/Map-Tube-Kharkiv/07-name.t
 SHA1 b3a9bedc5b01b64b22463e9b1a33ced5f226e4c2 t/Map-Tube-Kharkiv/08-xml.t
 SHA1 c990bf32a58cc1a1f81fc871d580e1befe30bc09 xt/Map-Tube-Kharkiv/01-pod_coverage.t
@@ -53,11 +53,11 @@ SHA1 a6e2aac321d4d72ed08b46ca6f03f52d0565a660 xt/Map-Tube-Kharkiv/02-pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJWEACdAAoJEJe+XXKaIuTlBWgH/0XXkxkF2WxGQYn5tBKl4SK2
-CF+nIoA4Psxiu9fqcKkg0LPWlzC806ppM+BVGK6pk57hKx83nzwu7ftiHJI1Lm2a
-sEGHGPzYEXq3y1KDgI+jH9IPXjgp4/XrxLzWHYBJ+hJkmPuIkg19RjpEqO64iGus
-Wd1u8CUCUkx3fH1RJRxrxWdvmQL7oOQInZAsIfgF38vCGEcBOhfbGFlIUn4qOs+1
-zc7SnOm2ueTc0UIt0KWR2YAnH1zxUFA9xzdWiQ1nYfdcqYoPmQiiexe4wyvveyYw
-5XKgpmACPK6tEYxju9Dmc6WWdjTxm4gL4FoDgQ4QfqFKFjPqlp335XtvXAzY80E=
-=RXaL
+iQEcBAEBAgAGBQJWIBuBAAoJEJe+XXKaIuTlHV0H/ilHfXEy7C+K1jOxkjoaD1dy
+WUQCfTTCoRaY41+SjEi5Er3FxQLh6hZi6VvSCPy4qsd+L9b+sgKsnw5Y0Vyv23FN
+EQV4KYVvMxj2ud5RgXWaCM9ZcOTsmpLpwVko3XK9S2IGAdmlzXz9CBJYXbU31paL
+ErLk0nxDNC/YuAEmr850Ih2wWqq1PWG8lODe3XFEWeO+mTSyHuo/x1HD+rmQAYCe
+bNETfDbjSCQUWTwB8W0oVCmnl8EibNYY2UiCojQYrxnbnI0qysLRz6CjmP1mb+gQ
+MnPmCwV2z4XhtZWH9IQ2iWJNzIMG5+UInXlQ34jwCLSgOAyMfsQMbTdHD39I+XI=
+=ZZqw
 -----END PGP SIGNATURE-----
