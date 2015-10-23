@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- https://uk.wikipedia.org/wiki/Харківський_метрополітен -->
 <tube name="Харківський метрополітен">
-  <!-- https://uk.wikipedia.org/wiki/Харківський_метрополітен -->
   <lines>
     <line id="1" name="Холодногірсько-Заводська лінія" color="red"/>
     <line id="2" name="Салтівська лінія" color="blue"/>
