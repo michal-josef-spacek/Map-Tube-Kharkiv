@@ -3,6 +3,7 @@
  - Implement station order.
  - Improve description for get_lines() in doc.
  - Rewrite XML map to new version with line IDs.
+ - Update Module::Install to 1.18 version.
 
 0.05 2015-10-15T23:32:47+02:00
  - Update to Map::Tube 3.06.
