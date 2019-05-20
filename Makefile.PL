@@ -22,7 +22,7 @@ name 'Map-Tube-Kharkiv';
 readme_from 'Kharkiv.pm';
 recursive_author_tests('xt');
 requires 'File::Share' => 0;
-requires 'Map::Tube' => '3.41';
+requires 'Map::Tube' => '3.62';
 requires 'Moo' => 0;
 requires 'namespace::clean' => 0;
 requires 'perl' => '5.8.0';
