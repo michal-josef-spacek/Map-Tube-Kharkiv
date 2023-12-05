@@ -33,6 +33,7 @@ Map::Tube::Kharkiv - Interface to the Kharkiv Metro Map.
 =head1 SYNOPSIS
 
  use Map::Tube::Kharkiv;
+
  my $obj = Map::Tube::Kharkiv->new;
  my $routes_ar = $obj->get_all_routes($from, $to);
  my $line = $obj->get_line_by_id($line_id);
