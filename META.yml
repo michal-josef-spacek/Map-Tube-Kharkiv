@@ -34,7 +34,7 @@ requires:
   perl: 5.8.0
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Map-Tube-Kharkiv
-  homepage: https://github.com/tupinek/Map-Tube-Kharkiv
+  homepage: https://github.com/michal-josef-spacek/Map-Tube-Kharkiv
   license: http://opensource.org/licenses/artistic-license-2.0.php
-  repository: git://github.com/tupinek/Map-Tube-Kharkiv
+  repository: git://github.com/michal-josef-spacek/Map-Tube-Kharkiv
 version: '0.07'
