@@ -2,6 +2,7 @@
  - Improve LICENSE AND COPYRIGHT section in doc.
  - Improve SYNOPSIS section in doc.
  - Move bugtracker to github.
+ - Rewrite doc to use of =head2.
  - Update Map::Tube dependency to 3.62 version.
  - Update Module::Install to 1.21 version.
  - Update author github username.
