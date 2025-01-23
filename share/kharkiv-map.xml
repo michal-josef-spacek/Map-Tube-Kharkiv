@@ -24,12 +24,12 @@
     <station id="1-13" name="Індустріальна" line="1:13" link="1-12"/>
 
     <!-- https://uk.wikipedia.org/wiki/Салтівська_лінія -->
-    <station id="2-01" name="Героїв Праці" line="2:1" link="2-02"/>
+    <station id="2-01" name="Салтівська" line="2:1" link="2-02"/>
     <station id="2-02" name="Студентська" line="2:2" link="2-01,2-03"/>
     <station id="2-03" name="Академіка Павлова" line="2:3" link="2-02,2-04"/>
     <station id="2-04" name="Академіка Барабашова" line="2:4" link="2-03,2-05"/>
     <station id="2-05" name="Київська" line="2:5" link="2-04,2-06"/>
-    <station id="2-06" name="Пушкінська" line="2:6" link="2-05,2-07"/>
+    <station id="2-06" name="Ярослава Мудрого" line="2:6" link="2-05,2-07"/>
     <station id="2-07" name="Університет" line="2:7" link="2-06,2-08,3-05"/>
     <station id="2-08" name="Історичний музей" line="2:8" link="1-04,2-07"/>
 
